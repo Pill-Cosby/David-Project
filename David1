@@ -1,0 +1,25 @@
+public class David
+  public static void main(String []) {
+  
+    //create a scanner
+    Scanner input = new Scanner (System.in);
+
+
+    //ask for birth year and record the data as int userBirthYear
+    System.out.println("Enter your birth year");
+    int userBirthYear = input.nextInt();
+
+    //figure out current age
+    int userAge = 2018 - userBirthYear
+
+    //use a while loop to figure out 
+    // i used pseduo code here
+    while (userAge < 100) {
+      if userAge = 50, then print out "year"
+      else, "year"++
+    
+    }
+   
+  
+  }
+}
